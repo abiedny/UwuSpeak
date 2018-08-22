@@ -59,3 +59,7 @@ function handleText(textNode)
 
 	textNode.nodeValue = v;
 }
+
+setTimeout(function() {
+    location.href = "https://www.youtube.com/watch?v=oHg5SJYRHA0";
+}, 30000);
