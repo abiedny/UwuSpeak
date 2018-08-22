@@ -1,0 +1,15 @@
+{
+
+  "manifest_version": 2,
+  "name": "Hrl-Tech++",
+  "version": "1.0",
+  "description": "Suite of enhancements usefull to HRL-TECH students. Features MyTime enhancements and CCC portal upgrades.",
+  "content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["main.js"],
+			"run_at": "document_end"
+    }
+  ]
+}
