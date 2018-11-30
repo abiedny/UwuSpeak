@@ -1,9 +1,9 @@
 {
 
   "manifest_version": 2,
-  "name": "Hrl-Tech++",
+  "name": "UwuSpeak",
   "version": "1.0",
-  "description": "Suite of enhancements usefull to HRL-TECH students. Features MyTime enhancements and CCC portal upgrades.",
+  "description": "Makes the internet be in UwU-speak. Also redirects you to a rickroll",
   "content_scripts": 
 	[
 		{
